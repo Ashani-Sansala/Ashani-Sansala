@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hi there 👋
+
+I'm Ashani, an undergraduate of the Faculty of Information Technology at the University of Moratuwa. Currently reading for BSc (Hons) in Artificial Intelligence. I'm a tech enthusiast who would like to explore new technologies.
+
+### Connect with me:
+
+[![ashani-sansala-kodithuwakku](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/ashani-sansala-kodithuwakku) [![ashani-s](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/ashani-s) [![ashanisansala](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/ashanisansala) [![@ashanisansala](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@ashanisansala) [![ashani_21](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/ashani_21)
+
 <!--
 **Ashani-Sansala/Ashani-Sansala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
