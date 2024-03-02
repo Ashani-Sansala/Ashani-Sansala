@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi there 👋
-
 I'm Ashani, an undergraduate of the Faculty of Information Technology at the University of Moratuwa. Currently reading for BSc (Hons) in Artificial Intelligence. I'm a tech enthusiast who would like to explore new technologies.
 
 <!--
